@@ -1,6 +1,11 @@
 # howmanywords
 
 > Count number of characters and words in a text
+> 
+> Nothing to serious, nothing too fancy
+> 
+> You can use the service at: https://how-many-words.herokuapp.com/
+> You can paste in the text or type it in
 
 ## Build Setup
 
